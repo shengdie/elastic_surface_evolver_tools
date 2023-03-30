@@ -1,0 +1,10 @@
+__pycache__/
+*.html
+*.ipynb
+*.tex
+.DS_Store
+.vscode/
+*.fe
+*.dmp
+*.cmd
+.*.py
