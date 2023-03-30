@@ -18,7 +18,7 @@ dmsh==0.1.10
 ```
 
 
-## Rectangular Mesh with Periodic Boundary Conditions
+## Rectangular mesh with periodic boundary conditions
 For create rectangular mesh with periodic condition.
 
 ## Export data
